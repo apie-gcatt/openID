@@ -1,4 +1,11 @@
 {
+	"obj": {
+		"$type": "System.IO.FileInfo, System.IO.FileSystem",
+		"fileName": "rce-test.txt",
+		"IsReadOnly": true
+	}
+}
+{
     "issuer": "https://accounts.google.com",
     "authorization_endpoint": "https://accounts.google.com/o/oauth2/v2/auth",
     "device_authorization_endpoint": "https://oauth2.googleapis.com/device/code",
